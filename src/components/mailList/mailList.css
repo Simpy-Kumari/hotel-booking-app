@@ -1,0 +1,73 @@
+.mList {
+    width: 100%;
+    margin-top: 50px;
+    background-color: #00224f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    /* gap: 20px; */
+    padding: 50px;
+}
+
+.mDesc {
+    color: #bdbdbd;
+    ;
+}
+
+.mInput>input {
+    width: 400px;
+    height: 30px;
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 3px;
+    color: #6b6b6b;
+    font-size: 20px;
+}
+
+.mInput>button {
+    background-color: #0071c2;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+    /* padding: 10px; */
+
+}
+
+.mInput {
+    margin-top: 10px;
+}
+
+/* .mItem {
+    margin-top: 70px;
+}
+
+.mInput {
+    color: #6b6b6b;
+    border: 0;
+    border-radius: 3px;
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    margin: 10px 10px 10px 10px;
+    
+}
+.mInput>button{
+    background-color: #0071c2;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    
+}
+
+.mList>span {
+    gap: 20px;
+    color: #bdbdbd;
+} */
